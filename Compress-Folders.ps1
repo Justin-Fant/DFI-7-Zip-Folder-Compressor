@@ -14,7 +14,7 @@
     2. Double-click it (or right-click → Run with PowerShell)
 
 .NOTES
-    Author: Justin P. Fant
+    Author: Justin Fant
     Version: 14.4
     Purpose: Digital Forensics / Archival Tool
     Requires: 7-Zip installed
